@@ -18,4 +18,4 @@ This repository contains tutorials in jupyter notebooks for beginners who want t
 
 ## Credits
 
-This Keras starter tutorial is prepared and provided by our MachVIS alumnus Mr. Asim Hameed. For more information, you can contact him via email at [asimhameed.cs@gmail.com](asimhameed.cs@gmail.com) or you can visit his GitHub profile [https://github.com/asimniazi63](https://github.com/asimniazi63).
+This Keras starter tutorial is prepared and provided by our MachVIS alumni Mr. Asim Hameed and Mr. Shoaib Sattar. For more information, you can contact them via their respective emails at [asimhameed.cs@gmail.com](asimhameed.cs@gmail.com) or [shoaib.sattar823@gmail.com](shoaib.sattar823@gmail.com). You can also visit Mr. Asim's GitHub profile [https://github.com/asimniazi63](https://github.com/asimniazi63).
